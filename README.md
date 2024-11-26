@@ -10,7 +10,7 @@ graph TD;
     C-->D;
 ```
 
-
+```mermaid
 architecture-beta
     group api(cloud)[API]
 
@@ -22,3 +22,5 @@ architecture-beta
     db:L -- R:server
     disk1:T -- B:server
     disk2:T -- B:db
+
+```
