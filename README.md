@@ -38,3 +38,12 @@ architecture-beta
     disk1:T -- B:server
     disk2:T -- B:db
 ```
+
+```mermaid
+zenuml
+    title Annotators
+    @Actor Alice
+    @Database Bob
+    Alice->Bob: Hi Bob
+    Bob->Alice: Hi Alice
+```
