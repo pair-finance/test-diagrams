@@ -47,7 +47,7 @@ zenuml
     Alice->Bob: Hi Bob
     Bob->Alice: Hi Alice
 ```
-```html
+<iframe>
 <html>
   <body>
     <pre class="mermaid">
@@ -82,4 +82,5 @@ zenuml
     </script>
   </body>
 </html>
-```
+</iframe>
+
